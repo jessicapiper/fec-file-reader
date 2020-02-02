@@ -1,11 +1,11 @@
-# fec-filer-reader readme
-
 ---
 title: "README.md"
 output: html_notebook
 author: "Jessica Piper"
 date: "2/2/2020"
 ---
+
+# fec-filer-reader readme
 
 ## Description
 
@@ -18,6 +18,6 @@ R
 - [RStudio] (https://rstudio.com/)
 
 Code Management
-- [Git] (https://git-scam.com/)
+- [Git] (https://git-scm.com/)
 
 
