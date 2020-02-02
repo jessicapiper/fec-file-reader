@@ -3,6 +3,8 @@ title: "README.md"
 output: html_notebook
 author: "Jessica Piper"
 date: "2/2/2020"
+editor_options: 
+  chunk_output_type: inline
 ---
 
 # fec-filer-reader readme
